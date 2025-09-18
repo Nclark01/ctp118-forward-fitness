@@ -18,3 +18,13 @@ Implements the Chapter 2 “Building a Webpage Template with HTML5” assignment
 
 ## Run
 Open `index.html` in a browser (I used VS Code Live Server).
+
+## Validation Proof
+
+- **template.html**
+  - Clean pass: ![Template Valid](docs/template-valid.png)
+  - Intentional error (DOCTYPE removed): ![Template Error](docs/template-error.png)
+  - Fixed and re-validated: ![Template Fixed](docs/template-fixed.png)
+
+- **index.html**
+  - Clean pass: ![Index Valid](docs/index-valid.png)
